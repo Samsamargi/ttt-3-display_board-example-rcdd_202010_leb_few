@@ -21,4 +21,4 @@ def display_board
    | X |   
 -----------
    |   |   "
- 
+ end
