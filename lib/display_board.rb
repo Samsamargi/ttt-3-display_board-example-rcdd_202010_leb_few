@@ -13,12 +13,12 @@ def display_board
 -----------
    | X |   
 -----------
-   |   |   "
-"What move would O like to make (1-9)?
-> 1
+   |   |   
+"What move would O like to make (1-9)?"
+
  0 |   |   
 -----------
    | X |   
 -----------
-   |   |   "
+   |   |   
  end
