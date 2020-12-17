@@ -7,17 +7,4 @@ def display_board
    |   |   
 -----------
    |   |   
-"What move would X like to make (1-9)?"
-   |   |   
------------
-   | X |   
------------
-   |   |   
-"What move would O like to make (1-9)?"
-
- 0 |   |   
------------
-   | X |   
------------
-   |   |   
- end
+end
