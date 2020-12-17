@@ -2,5 +2,5 @@
 
 def display_board
  " Welcome to Tic Tac Toe"
-  []=" "," "," " 
+  display_board= [" ", " ", " "]
 end
